@@ -7,9 +7,17 @@ import Projects from "./sections/Projects";
 import Exp from "./sections/Exp";
 import Contact from "./sections/Contact";
 import Footer from "./sections/Footer";
+import ClickSpark from './components/ClickSpark';
 
 const App = () => {
   return (
+    <ClickSpark
+  sparkColor="#ffffff"
+  sparkSize={17}
+  sparkRadius={35}
+  sparkCount={8}
+  duration={400}
+>
     <div className="container mx-auto max-w-7xl">
       <Navbar />
       <Hero />
@@ -21,6 +29,7 @@ const App = () => {
       <Footer />
 
     </div>
+  </ClickSpark>
   );
 }
  
