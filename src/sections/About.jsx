@@ -24,7 +24,7 @@ const About = () => {
                         </p></>
                         :
                         
-                        <p className="subtext">I’m a full-stack developer who enjoys building projects that actually make an impact. Since 2018, I’ve been working with modern web technologies to create clean, efficient, and scalable applications.
+                        <p className="subtext">I enjoy building things that people actually use, from interactive Discord bots to full-stack applications. I’m especially drawn to systems that combine logic, creativity, and real-world impact.
                         Currently, I’m expanding my skill set into machine learning, combining development with data-driven intelligence.
                         </p>}
                     </div>

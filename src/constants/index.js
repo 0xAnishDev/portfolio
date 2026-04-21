@@ -38,8 +38,7 @@ export const myProjects = [
       "A Firebase-powered authentication system with a visually rich, modern UI focused on secure and seamless user access.",
     subDescription: [
       "Implemented Firebase Authentication with email verification and secure session handling.",
-      "Designed a glassmorphism-based UI with a unique aesthetic background for an engaging user experience.",
-      "Built a responsive frontend using React and Tailwind CSS with smooth interactions and transitions.",
+      "Designed a responsive glassmorphism-based UI with a unique aesthetic background for an engaging user experience.",
       "Structured authentication flows for reliability, including login, signup, and protected route handling.",
     ],
     href: "https://miia-manga.netlify.app/login",
